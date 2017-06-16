@@ -1,2 +1,3 @@
-PRENOM   NOM   EMAIL  URL_DEPOT
--------------------------------
+PRENOM   NOM          EMAIL                                URL_DEPOT
+Yamine   Hedjem       yamine.hedjem@etu.univ-lyon1.fr      https://github.com/forbast/NoSQLBibliotheque.git
+Bastien  Forestier    bastien.forestier@etu.univ-lyon1.fr  https://github.com/forbast/NoSQLBibliotheque.git
